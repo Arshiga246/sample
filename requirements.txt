@@ -1,3 +1,9 @@
-streamlit
-csv
-tensorflow
+opencv-python
+face-recognition
+dlib
+numpy
+imutils
+matplotlib
+scikit-learn
+
+
